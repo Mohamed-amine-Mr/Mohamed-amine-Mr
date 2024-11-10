@@ -22,7 +22,7 @@ Results-driven Front-End Developer crafting modern web experiences with React.js
 
 #### [RESTAURANT-WEBSITE](https://aurum-gamma.vercel.app/)
 - Modern restaurant platform with real-time updates
-- React.js, Tailwind CSS, Firebase
+- React.js, Tailwind CSS
 - Live reservations and dynamic menu system
 
 #### [ecommerceApp](https://ecommerce-nine-wine.vercel.app/)
