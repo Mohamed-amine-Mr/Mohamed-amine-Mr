@@ -1,102 +1,63 @@
 # 👨‍💻 Mounir Mohamed Amine
 
-<h3 align="center">Front-end Developer | React.js, Tailwind CSS | Learning MERN Stack</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2E9BF7&center=true&vCenter=true&width=435&lines=Front+End+Developer;React+%2B+Tailwind+Specialist;Modern+Web+Applications;Clean+Code+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2E9BF7&center=true&vCenter=true&width=435&lines=Front+End+Developer;React+%2B+Tailwind+Specialist;Clean+Code+Enthusiast" alt="Typing SVG" />
 </p>
 
-### 💫 About Me
-Results-driven Front-End Developer with hands-on experience building modern React applications. Demonstrates strong understanding of React fundamentals and best practices through real-world projects. Actively expanding expertise in the React ecosystem while delivering clean, performant code.
+### 👋 About Me
+Results-driven Front-End Developer crafting modern web experiences with React.js and Tailwind CSS. Passionate about clean code and optimal user experience.
 
-### 🤝 Let's Connect
+### 🔗 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-amine-mounir-6a125732b/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://amine-developer.vercel.app//)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohamed-amine-Mr)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://amine-dev-asvb.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedaminemounirdev@gmail.com)
 
-### 🛠 Technical Expertise
-
-#### Core Technologies
+### 🛠️ Tech Stack
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-#### State Management & Routing
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
+### 🚀 Featured Projects
 
-#### Styling & Design
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+#### [RESTAURANT-WEBSITE](https://github.com/Mohamed-amine-Mr/RESTAURANT-WEBSITE)
+- Modern restaurant platform with real-time updates
+- React.js, Tailwind CSS, Firebase
+- Live reservations and dynamic menu system
+- ⭐ 4 Stars
 
-### 📚 Production-Ready Projects
+#### [ecommerceApp](https://github.com/Mohamed-amine-Mr/ecommerceApp)
+- Full-featured e-commerce platform
+- React.js, Context API, Firebase
+- Cart management, user authentication
+- ⭐ 3 Stars
 
-#### 1. **E-commerce Platform**
-*A full-featured online shopping experience demonstrating complex state management and user interaction*
+#### [ecommerce-platform](https://github.com/Mohamed-amine-Mr/ecommerce-platform)
+- Modern shopping experience
+- React.js, Redux, Tailwind CSS
+- Advanced filtering and sorting
+- ⭐ 3 Stars
 
-**Technical Implementation:**
-- Architected scalable component structure using React's latest practices
-- Implemented global state management using Context API for shopping cart and user authentication
-- Built responsive UI with Tailwind CSS, ensuring mobile-first design
-- Integrated Firebase for real-time data management and user authentication
-- Implemented advanced filtering system using React's useState and useEffect hooks
-- Optimized performance through code splitting and lazy loading
+#### [nodejs-basics-farm](https://github.com/Mohamed-amine-Mr/nodejs-basics-farm)
+- Backend development practice
+- Node.js, HTML
+- Data management and routing
+- ⭐ 4 Stars
 
-**Key Achievements:**
-- Reduced initial load time by 40% through proper code splitting
-- Implemented cart persistence using localStorage
-- Built reusable components following DRY principles
-- Achieved 95+ Lighthouse performance score
+### 💪 Key Strengths
+- Modern React Development (Hooks, Context, Router)
+- State Management (Redux, Context API)
+- Responsive Design with Tailwind CSS
+- Performance Optimization
+- Clean Code Practices
 
-#### 2. **Restaurant Management System**
-*A dynamic restaurant platform showcasing real-time updates and interactive user experience*
-
-**Technical Implementation:**
-- Developed using React.js with Vite for optimal development experience
-- Created animated UI components using Framer Motion for enhanced user experience
-- Implemented real-time reservation system using Firebase
-- Built responsive layout using Tailwind CSS with custom configurations
-- Utilized React's useEffect for real-time menu updates
-- Implemented custom hooks for reservation logic reusability
-
-### 💪 Professional Strengths
-
-- **Modern React Development:**
-  - Proficient in functional components and hooks
-  - Experience with React Router for complex navigation
-  - Understanding of React's rendering lifecycle
-
-- **State Management:**
-  - Context API for global state
-  - Redux for complex state management
-  - Local state optimization
-
-- **Performance Optimization:**
-  - Code splitting implementation
-  - Lazy loading of components
-  - React.memo for component optimization
-  - useCallback and useMemo usage
-
-### 📈 GitHub Activity
-
+### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-amine-Mr&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-### 🌟 Soft Skills
-- Strong problem-solving abilities demonstrated through project challenges
-- Excellent communication skills from previous administrative experience
-- Quick learner with ability to adapt to new technologies
-- Team player with experience in collaborative development
-- Attention to detail in code quality and UI implementation
-
----
-
 <p align="center">
-  <i>I'm eager to contribute my React expertise to a dynamic development team. My combination of technical skills, practical project experience, and continuous learning mindset makes me a valuable addition to any forward-thinking organization.</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohamed-amine-Mr&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
+  <i>Open to new opportunities and collaborations! Let's build something amazing together. 🚀</i>
 </p>
