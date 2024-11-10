@@ -1,13 +1,17 @@
 # 👨‍💻 Mounir Mohamed Amine
 
-## 🚀 Junior React Front-End Developer
+<h3 align="center">Front-end Developer | React.js, Tailwind CSS | Learning MERN Stack</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2E9BF7&center=true&vCenter=true&width=435&lines=Front+End+Developer;React+%2B+Tailwind+Specialist;Modern+Web+Applications;Clean+Code+Enthusiast" alt="Typing SVG" />
+</p>
+
+### 💫 About Me
 Results-driven Front-End Developer with hands-on experience building modern React applications. Demonstrates strong understanding of React fundamentals and best practices through real-world projects. Actively expanding expertise in the React ecosystem while delivering clean, performant code.
 
-### 📞 Professional Contact
-
+### 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-amine-mounir-6a125732b/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)]([https://amine-dev-asvb.vercel.app/](https://amine-dev-asvb.vercel.app/))
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://amine-dev-asvb.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohamed-amine-Mr)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedaminemounirdev@gmail.com)
 
@@ -57,14 +61,7 @@ Results-driven Front-End Developer with hands-on experience building modern Reac
 - Utilized React's useEffect for real-time menu updates
 - Implemented custom hooks for reservation logic reusability
 
-**Key Features:**
-- Real-time table reservation system
-- Dynamic menu filtering with category-based organization
-- Responsive design with smooth animations
-- Performance-optimized image loading
-- Interactive UI elements with immediate feedback
-
-### 💡 Professional Strengths
+### 💪 Professional Strengths
 
 - **Modern React Development:**
   - Proficient in functional components and hooks
@@ -82,21 +79,13 @@ Results-driven Front-End Developer with hands-on experience building modern Reac
   - React.memo for component optimization
   - useCallback and useMemo usage
 
-- **Development Practices:**
-  - Git version control
-  - Clean code principles
-  - Component reusability
-  - Responsive design implementation
+### 📈 GitHub Activity
 
-### 🎯 Professional Development
-
-- Completed intensive React training focusing on modern development practices
-- Actively contributing to open-source React projects
-- Regular participation in React community discussions
-- Continuous learning through practical project implementation
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-amine-Mr&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ### 🌟 Soft Skills
-
 - Strong problem-solving abilities demonstrated through project challenges
 - Excellent communication skills from previous administrative experience
 - Quick learner with ability to adapt to new technologies
@@ -105,6 +94,10 @@ Results-driven Front-End Developer with hands-on experience building modern Reac
 
 ---
 
-<b>
-I'm eager to contribute my React expertise to a dynamic development team. My combination of technical skills, practical project experience, and continuous learning mindset makes me a valuable addition to any forward-thinking organization.
-</b>
+<p align="center">
+  <i>I'm eager to contribute my React expertise to a dynamic development team. My combination of technical skills, practical project experience, and continuous learning mindset makes me a valuable addition to any forward-thinking organization.</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mohamed-amine-Mr&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
+</p>
