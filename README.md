@@ -27,12 +27,12 @@ Results-driven Front-End Developer crafting modern web experiences with React.js
 
 #### [ecommerceApp](https://ecommerce-nine-wine.vercel.app/)
 - Full-featured e-commerce platform
-- React.js, Context API, Firebase
+- React.js, Context API
 - Cart management, user authentication
 
 #### [ecommerce-platform](https://ecommerce-platform-mu.vercel.app/)
 - Modern shopping experience
-- React.js, Redux, Tailwind CSS
+- React.js, Context API, Tailwind CSS
 - Advanced filtering and sorting
 
 #### [nodejs-basics-farm](https://github.com/Mohamed-amine-Mr/nodejs-basics-farm)
@@ -42,7 +42,7 @@ Results-driven Front-End Developer crafting modern web experiences with React.js
 
 ### 💪 Key Strengths
 - Modern React Development (Hooks, Context, Router)
-- State Management (Redux, Context API)
+- State Management ( Context API)
 - Responsive Design with Tailwind CSS
 - Performance Optimization
 - Clean Code Practices
