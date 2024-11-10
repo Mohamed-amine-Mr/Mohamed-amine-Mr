@@ -16,34 +16,29 @@ Results-driven Front-End Developer crafting modern web experiences with React.js
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
 ### 🚀 Featured Projects
 
-#### [RESTAURANT-WEBSITE](https://github.com/Mohamed-amine-Mr/RESTAURANT-WEBSITE)
+#### [RESTAURANT-WEBSITE](https://aurum-gamma.vercel.app/)
 - Modern restaurant platform with real-time updates
 - React.js, Tailwind CSS, Firebase
 - Live reservations and dynamic menu system
-- ⭐ 4 Stars
 
-#### [ecommerceApp](https://github.com/Mohamed-amine-Mr/ecommerceApp)
+#### [ecommerceApp](https://ecommerce-nine-wine.vercel.app/)
 - Full-featured e-commerce platform
 - React.js, Context API, Firebase
 - Cart management, user authentication
-- ⭐ 3 Stars
 
-#### [ecommerce-platform](https://github.com/Mohamed-amine-Mr/ecommerce-platform)
+#### [ecommerce-platform](https://ecommerce-platform-mu.vercel.app/)
 - Modern shopping experience
 - React.js, Redux, Tailwind CSS
 - Advanced filtering and sorting
-- ⭐ 3 Stars
 
 #### [nodejs-basics-farm](https://github.com/Mohamed-amine-Mr/nodejs-basics-farm)
 - Backend development practice
 - Node.js, HTML
 - Data management and routing
-- ⭐ 4 Stars
 
 ### 💪 Key Strengths
 - Modern React Development (Hooks, Context, Router)
