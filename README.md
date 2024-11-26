@@ -11,7 +11,7 @@ Results-driven Front-End Developer crafting modern web experiences with React.js
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-amine-mounir-6a125732b/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://amine-developer.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedaminemounirdev@gmail.com)
-[![Youtube](https://img.shields.io/badge/Youtube-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedaminemounirdev@gmail.com)
+[![Youtube](https://img.shields.io/badge/Youtube-D14836?style=for-the-badge&logo=youtube&logoColor=white)](mailto:mohamedaminemounirdev@gmail.com)
 
 
 ### 🛠️ Tech Stack
