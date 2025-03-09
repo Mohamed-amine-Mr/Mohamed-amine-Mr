@@ -20,17 +20,6 @@ Results-driven Front-End Developer crafting modern web experiences with React.js
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
-### 🚀 Featured Projects
-
-#### [RESTAURANT-WEBSITE](https://aurum-gamma.vercel.app/)
-- Modern restaurant platform with real-time updates
-- React.js, Tailwind CSS
-- Live reservations and dynamic menu system
-
-#### [ecommerceApp](https://ecommerce-nine-wine.vercel.app/)
-- Full-featured e-commerce platform
-- React.js, Context API
-- Cart management, user authentication
 
 
 ### 💪 Key Strengths
