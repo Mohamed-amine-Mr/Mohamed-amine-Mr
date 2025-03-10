@@ -96,19 +96,7 @@ Made with 💜 by [Anmol](https://twitter.com/Anmol_Codes)
 <!--- -- Menu ---------------------------------------------------------------------------------------------------------------------------------------------- -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-# [Menu](#menu)
-- [Welcome](#welcome)
-- [Moving Logos](#moving-logos-)
-- [Animated Social Icons](#animated-social-media-icons-)
-- [Animated Emojis](#animated-emojis-)
-- [Animated Hello Banner](#animated-hello-)
-- [Build your own Octocat](#build-your-own-octocat-)
-- [Nice to Meet You Raw](#hello-nice-to-meet-you--)
-- [Work Culture (HD Visuals)](#work-culture-hd-visuals-)
-- [Extra Value Added](#extra-value-added-)
-- [Cute Working Stickers](#cute-working-stickers-)
-- [Awesome Banners](#awesome-banners-)
-- [Cool Avatars for GitHub Profile](#--cool-avatars-for-github-profile---)
+
   
 <br>
 
@@ -166,39 +154,10 @@ Made with 💜 by [Anmol](https://twitter.com/Anmol_Codes)
 
 <br><br>
 
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- WOW Emojis ---------------------------------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-
-## Animated Emojis [🔝](#--gifs-for-readme--)
-
-> https://animated-fluent-emoji.vercel.app/
-
-<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="120" /><img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="120" />
-<img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" alt="Beaming Face with Smiling Eyes" width="120" />
-<img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d12ff54.png" alt="Jack-O-Lantern" width="120" />
-<img src="https://user-images.githubusercontent.com/74038190/216121952-63f41409-6eb1-4a81-8b47-0d5d7c8552a4.png" alt="Health Worker" width="120" />
-<img src="https://user-images.githubusercontent.com/74038190/216121964-513bdf95-3c8c-429a-82bc-7c770caca8fc.png" alt="Man Bouncing Ball Medium-Light Skin Tone" width="120" />
-<img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-baff-eeab94bcec74.png" alt="Chicken" width="120" />
-<img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" alt="Feather" width="120" />
-<img src="https://user-images.githubusercontent.com/74038190/216122005-3226fcc7-8713-41a1-ae5a-51d4b4cbcb83.png" alt="Guide Dog" width="120" />
-<img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" alt="Comet" width="120" />
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="120" />
-<img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" alt="Eleven O’Clock" width="120" />
-<img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" alt="E-Mail" width="120" />
-<img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Bullseye" width="120" />
-<img src="https://user-images.githubusercontent.com/74038190/216124356-9c152f5b-554d-400c-a2f3-84f0f0b9a627.png" alt="Face with Hand Over Mouth" width="120" />
-<img src="https://user-images.githubusercontent.com/74038190/216124372-27597c2f-74d4-4cef-993c-b27cab2ddc7f.png" alt="Astonished Face" width="120" />
 
 <br><br>     
 
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
-<!--- -- Animated Hello in Multiple Languages -------------------------------------------------------------------------------------------------------------- -->
-<!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-## Animated Hello [🔝](#--gifs-for-readme--)
-
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9be4d344-6782-461a-b5a6-32a07bf7b34e" width="600" alt="animated hello">
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- -- Octocat ------------------------------------------------------------------------------------------------------------------------------------------- -->
@@ -208,15 +167,6 @@ Made with 💜 by [Anmol](https://twitter.com/Anmol_Codes)
 
 > https://myoctocat.com/build-your-octocat/
 
-![Build Personal Octocat](https://user-images.githubusercontent.com/74038190/212741495-c8f8df15-ce6c-4203-a6e5-b93530e778d7.png)
-
-<br>
-
-> Awesome Octocats: https://octodex.github.com/
-
-<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" width="500" alt="NUX_Octodex">
-
-<br><br>     
 
 
 
