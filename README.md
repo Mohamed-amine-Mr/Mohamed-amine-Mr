@@ -43,8 +43,7 @@ I'm a **Front-End Developer** passionate about crafting modern, responsive, and 
 ### 🚀 Featured Projects
 Here are some of my notable projects:
 - **[Portfolio](https://aminedev.vercel.app/)**: My personal portfolio showcasing my skills and projects.
-- **[Project 2]()**: (Add a brief description of another project here.)
-- **[Project 3]()**: (Add a brief description of another project here.)
+- **[Pizza Menu App](https://github.com/Mohamed-amine-Mr/pizza-menu)**: A simple React application that displays a pizza menu, demonstrating key React concepts such as component-based architecture, props, conditional rendering, and dynamic UI.
 
 ---
 
