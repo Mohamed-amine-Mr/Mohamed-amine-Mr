@@ -1,4 +1,9 @@
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">
+<br><br>
+
 # 👨‍💻 Mounir Mohamed Amine
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2E9BF7&center=true&vCenter=true&width=435&lines=Front+End+Developer;React+%2B+Next.js+Specialist;Clean+Code+Enthusiast;Tailwind+CSS+Wizard" alt="Typing SVG" />
