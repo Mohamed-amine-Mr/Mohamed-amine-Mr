@@ -60,7 +60,7 @@ As a junior Front-End Developer based in Morocco, I'm passionate about creating 
 - **Problem-Solving**: Strong analytical skills and attention to detail
 - **Collaboration**: Effective team player with excellent communication skills
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="25"> Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Down.webp" alt="Backhand Index Pointing Down" width="25" height="25" />Featured Projects
 
 ### Pizza Menu
 **Interactive React application showcasing component architecture**
