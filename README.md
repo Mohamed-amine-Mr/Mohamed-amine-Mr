@@ -73,36 +73,55 @@
 
 ## 🚀 Featured Projects
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="60%" valign="top">
-      <h3>Portfolio Website</h3>
-      <p>My personal portfolio showcasing my skills and projects. Built with Next.js and Tailwind CSS, featuring responsive design and smooth animations.</p>
-      <a href="https://aminedev.vercel.app/">
-        <img src="https://img.shields.io/badge/View%20Live-Visit%20Site-blue?style=for-the-badge&logo=vercel" alt="Portfolio">
-      </a>
-    </td>
-    <td width="40%" align="center">
-      <a href="https://aminedev.vercel.app/">
-        <img src="/api/placeholder/400/320" alt="Portfolio Screenshot" width="100%">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="60%" valign="top">
-      <h3>Pizza Menu App</h3>
-      <p>A React application that displays a pizza menu, demonstrating key React concepts such as component-based architecture, props, conditional rendering, and dynamic UI.</p>
-      <a href="https://github.com/Mohamed-amine-Mr/pizza-menu">
-        <img src="https://img.shields.io/badge/GitHub-View%20Code-green?style=for-the-badge&logo=github" alt="Pizza Menu App">
-      </a>
-    </td>
-    <td width="40%" align="center">
-      <a href="https://github.com/Mohamed-amine-Mr/pizza-menu">
-        <img src="/api/placeholder/400/320" alt="Project Screenshot" width="100%">
-      </a>
-    </td>
-  </tr>
-</table>
+### Pizza Menu
+- **Description**: A React app showcasing a pizza menu, demonstrating components, props, and JSX.
+- **Tech**: React, JSX, Props
+- **Link**: [GitHub](https://github.com/Mohamed-amine-Mr/pizza-menu)
+
+### Travel List
+- **Description**: A travel packing list app using React's `useState` for state management.
+- **Tech**: React, useState
+- **Link**: [GitHub](https://github.com/Mohamed-amine-Mr/travel-list)
+
+### Eat-n-Split
+- **Description**: A bill-splitting app to practice React fundamentals.
+- **Tech**: React, State Management
+- **Link**: [GitHub](https://github.com/Mohamed-amine-Mr/eat-n-split)
+
+### usePopcorn
+- **Description**: A movie search app using `useEffect`, data fetching, and custom hooks.
+- **Tech**: React, useEffect, Custom Hooks
+- **Link**: [GitHub](https://github.com/Mohamed-amine-Mr/usePopcorn)
+
+### Classy Weather
+- **Description**: A weather app built with class components.
+- **Tech**: React, Class Components
+- **Link**: [GitHub](https://github.com/Mohamed-amine-Mr/classy-weather)
+
+### Quiz App
+- **Description**: A quiz app using `useReducer` for state management.
+- **Tech**: React, useReducer
+- **Link**: [GitHub](https://github.com/Mohamed-amine-Mr/quiz-app)
+
+### WorldWise
+- **Description**: A travel tracking app using React Router, Context API, and performance optimizations like `memo`, `useMemo`, and `useCallback`.
+- **Tech**: React Router, Context API, Memoization
+- **Link**: [GitHub](https://github.com/Mohamed-amine-Mr/worldwise)
+
+### Fast React Pizza
+- **Description**: A pizza ordering app with React Router, Redux, Redux Toolkit, and Tailwind CSS.
+- **Tech**: React Router, Redux, Tailwind CSS
+- **Link**: [GitHub](https://github.com/Mohamed-amine-Mr/fast-react-pizza)
+
+### The Wild Oasis
+- **Description**: A full-stack hotel management app with React Query, Styled Components, Supabase, and advanced patterns like compound components and authentication.
+- **Tech**: React Query, Styled Components, Supabase
+- **Link**: [GitHub](https://github.com/Mohamed-amine-Mr/the-wild-oasis)
+
+### The Wild Oasis Website
+- **Description**: A Next.js website using the "app" router, React Server Components, and NextAuth for authentication.
+- **Tech**: Next.js, React Server Components, NextAuth
+- **Link**: [GitHub](https://github.com/Mohamed-amine-Mr/the-wild-oasis-website)
 
 ## 📈 GitHub Stats
 
