@@ -45,7 +45,7 @@ As a junior Front-End Developer based in Morocco, I'm passionate about creating 
   <img src="https://img.shields.io/badge/Responsive_Design-025E8C?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Responsive Design">
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Flexed%20Biceps.webp" alt="Flexed Biceps" width="25" height="25" /> Key Professional Strengths
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" /> Key Professional Strengths
 
 - **Modern React Development**: Expert in React Hooks, Context API, and functional components
 - **Next.js Implementation**: Creating performant apps with SSR, SSG, and API routes
