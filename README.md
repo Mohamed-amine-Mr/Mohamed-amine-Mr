@@ -12,7 +12,7 @@
   <p>Front-End Developer crafting modern, responsive web applications with React, Next.js, and Tailwind CSS.</p>
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="25"> Connect With Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Handshake.webp" alt="Handshake" width="25" height="25" /> Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mohamed-amine-mounir-6a125732b/">
