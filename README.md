@@ -8,7 +8,7 @@
   <p>Front-End Developer crafting modern, responsive web applications with React, Next.js, and Tailwind CSS.</p>
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Handshake.webp" alt="Handshake" width="25" height="25" /> Connect With Me
+##  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" /> Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mohamed-amine-mounir-6a125732b/">
@@ -25,7 +25,7 @@
   </a>
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Dizzy.webp" alt="Dizzy" width="25" height="25" /> Professional Summary
+## < <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" /> Professional Summary
 
 As a junior Front-End Developer based in Morocco, I'm passionate about creating outstanding user experiences through elegant code and modern design principles. My expertise in React ecosystem technologies allows me to build scalable, performant applications that meet business requirements while delighting users.
 
