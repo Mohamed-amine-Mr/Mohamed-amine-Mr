@@ -56,11 +56,6 @@ As a junior Front-End Developer based in Morocco, I'm passionate about creating 
 - **Problem-Solving**: Strong analytical skills and attention to detail
 - **Collaboration**: Effective team player with excellent communication skills
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider">
-</div>
-
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Down.webp" alt="Backhand Index Pointing Down" width="25" height="25" />Featured Projects
 
 ### Eat-n-Split
