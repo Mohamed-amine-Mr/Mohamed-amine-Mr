@@ -12,11 +12,7 @@
   <p>Front-End Developer crafting modern, responsive web applications with React, Next.js, and Tailwind CSS.</p>
 </div>
 
-<div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9d0fd0c4-5c7f-4122-b884-64a1e1685d2d" width="70%" alt="Developer Coding">
-</div>
-
-## 🔗 Connect With Me
+## <img src="https://user-images.githubusercontent.com/74038190/214644145-264f4759-7633-441e-9d67-d8dda9d50d26.gif" width="25"> Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mohamed-amine-mounir-6a125732b/">
@@ -37,7 +33,7 @@
 
 As a junior Front-End Developer based in Morocco, I'm passionate about creating outstanding user experiences through elegant code and modern design principles. My expertise in React ecosystem technologies allows me to build scalable, performant applications that meet business requirements while delighting users.
 
-## 🛠️ Technical Skills
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="25"> Technical Skills
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
@@ -64,7 +60,7 @@ As a junior Front-End Developer based in Morocco, I'm passionate about creating 
 - **Problem-Solving**: Strong analytical skills and attention to detail
 - **Collaboration**: Effective team player with excellent communication skills
 
-## 🚀 Featured Projects
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="25"> Featured Projects
 
 ### Pizza Menu
 **Interactive React application showcasing component architecture**
@@ -152,7 +148,7 @@ As a junior Front-End Developer based in Morocco, I'm passionate about creating 
 - Testing with Jest and React Testing Library
 - GraphQL for efficient API queries
 
-## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="120" /> Open to Opportunities
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="25"> Open to Opportunities
 
 I'm actively seeking junior developer positions in Morocco where I can contribute my skills and continue growing as a professional. I'm particularly interested in companies that value:
 
