@@ -123,7 +123,7 @@ As a junior Front-End Developer based in Morocco, I'm passionate about creating 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-amine-Mr&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%">
 </div>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="25" height="25" /> Currently Learning
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" /> Currently Learning
 
 - TypeScript for type-safe application development
 - Advanced Next.js features and optimizations
