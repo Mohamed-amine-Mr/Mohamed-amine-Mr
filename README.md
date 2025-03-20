@@ -62,20 +62,6 @@ As a junior Front-End Developer based in Morocco, I'm passionate about creating 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Down.webp" alt="Backhand Index Pointing Down" width="25" height="25" />Featured Projects
 
-### Pizza Menu
-**Interactive React application showcasing component architecture**
-- React components and props implementation
-- JSX structure and styling
-- Clean separation of concerns
-- [View Project](https://github.com/Mohamed-amine-Mr/pizza-menu)
-
-### Travel List
-**Travel packing application with state management**
-- React useState hook for efficient state updates
-- Interactive UI with add/remove functionality
-- User-friendly interface for travelers
-- [View Project](https://github.com/Mohamed-amine-Mr/travel-list)
-
 ### Eat-n-Split
 **Bill splitting application for groups**
 - React state management for multiple users
