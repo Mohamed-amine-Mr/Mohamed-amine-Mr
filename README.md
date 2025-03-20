@@ -2,28 +2,23 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="Divider">
 </div>
 
+# <div align="center">Mounir Mohamed Amine</div>
+
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9d0fd0c4-5c7f-4122-b884-64a1e1685d2d" width="100%" alt="Developer Coding">
-      </td>
-      <td width="50%" valign="middle">
-        <h1>Mounir Mohamed Amine</h1>
-        <p align="center">
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2E9BF7&center=true&vCenter=true&width=435&lines=Front+End+Developer;React+%2B+Next.js+Specialist;Clean+Code+Enthusiast;Tailwind+CSS+Wizard" alt="Typing SVG" />
-        </p>
-        <p>
-          Front-End Developer passionate about crafting modern, responsive web applications with React, Next.js, and Tailwind CSS.
-        </p>
-      </td>
-    </tr>
-  </table>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=2E9BF7&center=true&vCenter=true&width=335&lines=Front+End+Developer;React+%2B+Next.js+Specialist;Clean+Code+Enthusiast;Tailwind+CSS+Wizard" alt="Typing SVG" />
 </div>
 
-## 🔗 Connect with Me
+<div align="center">
+  <p>Front-End Developer crafting modern, responsive web applications with React, Next.js, and Tailwind CSS.</p>
+</div>
 
-<p align="center">
+<div align="center">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/9d0fd0c4-5c7f-4122-b884-64a1e1685d2d" width="70%" alt="Developer Coding">
+</div>
+
+## 🔗 Connect With Me
+
+<div align="center">
   <a href="https://www.linkedin.com/in/mohamed-amine-mounir-6a125732b/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -36,121 +31,145 @@
   <a href="https://www.youtube.com/@amine__Tech..">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
-</p>
+</div>
 
-## 🛠️ Tech Stack
+## 💼 Professional Summary
 
-<p align="center">
+As a junior Front-End Developer based in Morocco, I'm passionate about creating outstanding user experiences through elegant code and modern design principles. My expertise in React ecosystem technologies allows me to build scalable, performant applications that meet business requirements while delighting users.
+
+## 🛠️ Technical Skills
+
+<div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</p>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/Responsive_Design-025E8C?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Responsive Design">
+</div>
 
-## 💪 Key Strengths
+## 💪 Key Professional Strengths
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="50%" align="left" valign="top">
-      <ul>
-        <li><b>Modern React Development</b>: Proficient in React Hooks, Context API, and React Router</li>
-        <li><b>Next.js Expertise</b>: Server-side rendering, static site generation, and API routes</li>
-        <li><b>State Management</b>: Skilled in Redux and Context API for scalable state management</li>
-      </ul>
-    </td>
-    <td width="50%" align="left" valign="top">
-      <ul>
-        <li><b>Responsive Design</b>: Mastery in Tailwind CSS for building sleek, responsive UIs</li>
-        <li><b>Performance Optimization</b>: Focused on delivering fast and efficient web applications</li>
-        <li><b>Clean Code Practices</b>: Writing maintainable and scalable code</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- **Modern React Development**: Expert in React Hooks, Context API, and functional components
+- **Next.js Implementation**: Creating performant apps with SSR, SSG, and API routes
+- **Advanced State Management**: Proficient with Redux Toolkit and Context API
+- **UI/UX Excellence**: Crafting pixel-perfect, responsive interfaces with Tailwind CSS
+- **Performance Optimization**: Implementing code splitting, lazy loading, and memoization
+- **Clean Code Architecture**: Writing maintainable, well-documented, and scalable code
+- **Problem-Solving**: Strong analytical skills and attention to detail
+- **Collaboration**: Effective team player with excellent communication skills
 
 ## 🚀 Featured Projects
 
 ### Pizza Menu
-- **Description**: A React app showcasing a pizza menu, demonstrating components, props, and JSX.
-- **Tech**: React, JSX, Props
-- **Link**: [GitHub](https://github.com/Mohamed-amine-Mr/pizza-menu)
+**Interactive React application showcasing component architecture**
+- React components and props implementation
+- JSX structure and styling
+- Clean separation of concerns
+- [View Project](https://github.com/Mohamed-amine-Mr/pizza-menu)
 
 ### Travel List
-- **Description**: A travel packing list app using React's `useState` for state management.
-- **Tech**: React, useState
-- **Link**: [GitHub](https://github.com/Mohamed-amine-Mr/travel-list)
+**Travel packing application with state management**
+- React useState hook for efficient state updates
+- Interactive UI with add/remove functionality
+- User-friendly interface for travelers
+- [View Project](https://github.com/Mohamed-amine-Mr/travel-list)
 
 ### Eat-n-Split
-- **Description**: A bill-splitting app to practice React fundamentals.
-- **Tech**: React, State Management
-- **Link**: [GitHub](https://github.com/Mohamed-amine-Mr/eat-n-split)
+**Bill splitting application for groups**
+- React state management for multiple users
+- Real-time calculation of shared expenses
+- Intuitive interface for expense tracking
+- [View Project](https://github.com/Mohamed-amine-Mr/eat-n-split)
 
 ### usePopcorn
-- **Description**: A movie search app using `useEffect`, data fetching, and custom hooks.
-- **Tech**: React, useEffect, Custom Hooks
-- **Link**: [GitHub](https://github.com/Mohamed-amine-Mr/usePopcorn)
+**Movie search and rating application**
+- API integration with useEffect for data fetching
+- Custom hooks for reusable functionality
+- Advanced state management techniques
+- [View Project](https://github.com/Mohamed-amine-Mr/usePopcorn)
 
 ### Classy Weather
-- **Description**: A weather app built with class components.
-- **Tech**: React, Class Components
-- **Link**: [GitHub](https://github.com/Mohamed-amine-Mr/classy-weather)
+**Weather application using class components**
+- React class components architecture
+- API integration for weather data
+- Component lifecycle methods
+- [View Project](https://github.com/Mohamed-amine-Mr/classy-weather)
 
 ### Quiz App
-- **Description**: A quiz app using `useReducer` for state management.
-- **Tech**: React, useReducer
-- **Link**: [GitHub](https://github.com/Mohamed-amine-Mr/quiz-app)
+**Interactive quiz application with complex state**
+- useReducer for advanced state management
+- Multiple quiz states and transitions
+- Score tracking and question progression
+- [View Project](https://github.com/Mohamed-amine-Mr/quiz-app)
 
 ### WorldWise
-- **Description**: A travel tracking app using React Router, Context API, and performance optimizations like `memo`, `useMemo`, and `useCallback`.
-- **Tech**: React Router, Context API, Memoization
-- **Link**: [GitHub](https://github.com/Mohamed-amine-Mr/worldwise)
+**Travel tracking application with advanced patterns**
+- React Router for seamless navigation
+- Context API for global state management 
+- Performance optimization with memo, useMemo, and useCallback
+- [View Project](https://github.com/Mohamed-amine-Mr/worldwise)
 
 ### Fast React Pizza
-- **Description**: A pizza ordering app with React Router, Redux, Redux Toolkit, and Tailwind CSS.
-- **Tech**: React Router, Redux, Tailwind CSS
-- **Link**: [GitHub](https://github.com/Mohamed-amine-Mr/fast-react-pizza)
+**Modern pizza ordering platform**
+- React Router integration
+- Redux and Redux Toolkit for state management
+- Tailwind CSS for responsive design
+- [View Project](https://github.com/Mohamed-amine-Mr/fast-react-pizza)
 
 ### The Wild Oasis
-- **Description**: A full-stack hotel management app with React Query, Styled Components, Supabase, and advanced patterns like compound components and authentication.
-- **Tech**: React Query, Styled Components, Supabase
-- **Link**: [GitHub](https://github.com/Mohamed-amine-Mr/the-wild-oasis)
+**Full-stack hotel management system**
+- React Query for server state management
+- Styled Components for consistent design
+- Supabase backend integration
+- Advanced patterns like compound components
+- Authentication and authorization
+- [View Project](https://github.com/Mohamed-amine-Mr/the-wild-oasis)
 
 ### The Wild Oasis Website
-- **Description**: A Next.js website using the "app" router, React Server Components, and NextAuth for authentication.
-- **Tech**: Next.js, React Server Components, NextAuth
-- **Link**: [GitHub](https://github.com/Mohamed-amine-Mr/the-wild-oasis-website)
+**Next.js website with modern architecture**
+- Next.js App Router implementation
+- React Server Components for optimal performance
+- NextAuth authentication system
+- [View Project](https://github.com/Mohamed-amine-Mr/the-wild-oasis-website)
 
-## 📈 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td width="50%">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Mohamed-amine-Mr&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-      </td>
-      <td width="50%">
-        <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-amine-Mr&theme=tokyonight" alt="GitHub Streak">
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-amine-Mr&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-amine-Mr&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%">
 </div>
 
-## 🌟 Let's Collaborate!
+## 🌱 Currently Learning
 
-I'm open to new opportunities and collaborations, especially for roles in Morocco. With expertise in modern front-end technologies and a passion for creating exceptional user experiences, I can help bring your ideas to life.
+- TypeScript for type-safe application development
+- Advanced Next.js features and optimizations
+- Testing with Jest and React Testing Library
+- GraphQL for efficient API queries
 
-<p align="center">
+## 🤝 Open to Opportunities
+
+I'm actively seeking junior developer positions in Morocco where I can contribute my skills and continue growing as a professional. I'm particularly interested in companies that value:
+
+- Modern tech stacks centered around React and Next.js
+- Collaborative team environments
+- Mentorship opportunities
+- Clean code practices and attention to detail
+
+<div align="center">
   <a href="https://aminedev.vercel.app/">
-    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/View%20My%20Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:mohamedaminemounirdev@gmail.com">
     <img src="https://img.shields.io/badge/Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" />
   </a>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohamed-amine-Mr&color=blue&style=flat" alt="Profile Views" />
-</p>
+</div>
