@@ -152,7 +152,7 @@ As a junior Front-End Developer based in Morocco, I'm passionate about creating 
 - Testing with Jest and React Testing Library
 - GraphQL for efficient API queries
 
-## 🤝 Open to Opportunities
+## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="120" /> Open to Opportunities
 
 I'm actively seeking junior developer positions in Morocco where I can contribute my skills and continue growing as a professional. I'm particularly interested in companies that value:
 
