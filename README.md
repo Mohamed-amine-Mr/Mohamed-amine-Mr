@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/mohamed-amine-mounir-6a125732b/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://aminedev.vercel.app/">
+  <a href="https://mohamed-dev.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio">
   </a>
   <a href="mailto:mohamedamine.mounir1@gmail.com>
