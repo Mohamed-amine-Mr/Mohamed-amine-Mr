@@ -58,13 +58,6 @@ As a junior Front-End Developer based in Morocco, I'm passionate about creating 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Down.webp" alt="Backhand Index Pointing Down" width="25" height="25" />Featured Projects
 
-### Eat-n-Split
-**Bill splitting application for groups**
-- React state management for multiple users
-- Real-time calculation of shared expenses
-- Intuitive interface for expense tracking
-- [View Project](https://github.com/Mohamed-amine-Mr/eat-n-split)
-
 ### usePopcorn
 **Movie search and rating application**
 - API integration with useEffect for data fetching
