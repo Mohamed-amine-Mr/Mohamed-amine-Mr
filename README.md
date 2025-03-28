@@ -118,10 +118,8 @@ As a junior Front-End Developer based in Morocco, I'm passionate about creating 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" /> Currently Learning
 
-- TypeScript for type-safe application development
 - Advanced Next.js features and optimizations
-- Testing with Jest and React Testing Library
-- GraphQL for efficient API queries
+
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="25"> Open to Opportunities
 
