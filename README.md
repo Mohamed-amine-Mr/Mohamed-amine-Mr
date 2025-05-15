@@ -33,12 +33,11 @@ As a junior Front-End Developer based in Morocco, I'm passionate about creating 
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/PHP-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
@@ -48,7 +47,6 @@ As a junior Front-End Developer based in Morocco, I'm passionate about creating 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" /> Key Professional Strengths
 
 - **Modern React Development**: Expert in React Hooks, Context API, and functional components
-- **Next.js Implementation**: Creating performant apps with SSR, SSG, and API routes
 - **Advanced State Management**: Proficient with Redux Toolkit and Context API
 - **UI/UX Excellence**: Crafting pixel-perfect, responsive interfaces with Tailwind CSS
 - **Performance Optimization**: Implementing code splitting, lazy loading, and memoization
@@ -58,56 +56,6 @@ As a junior Front-End Developer based in Morocco, I'm passionate about creating 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Backhand%20Index%20Pointing%20Down.webp" alt="Backhand Index Pointing Down" width="25" height="25" />Featured Projects
 
-### usePopcorn
-**Movie search and rating application**
-- API integration with useEffect for data fetching
-- Custom hooks for reusable functionality
-- Advanced state management techniques
-- [View Project](https://github.com/Mohamed-amine-Mr/usePopcorn)
-
-### Classy Weather
-**Weather application using class components**
-- React class components architecture
-- API integration for weather data
-- Component lifecycle methods
-- [View Project](https://github.com/Mohamed-amine-Mr/classy-weather)
-
-### Quiz App
-**Interactive quiz application with complex state**
-- useReducer for advanced state management
-- Multiple quiz states and transitions
-- Score tracking and question progression
-- [View Project](https://github.com/Mohamed-amine-Mr/quiz-app)
-
-### WorldWise
-**Travel tracking application with advanced patterns**
-- React Router for seamless navigation
-- Context API for global state management 
-- Performance optimization with memo, useMemo, and useCallback
-- [View Project](https://github.com/Mohamed-amine-Mr/worldwise)
-
-### Fast React Pizza
-**Modern pizza ordering platform**
-- React Router integration
-- Redux and Redux Toolkit for state management
-- Tailwind CSS for responsive design
-- [View Project](https://github.com/Mohamed-amine-Mr/fast-react-pizza)
-
-### The Wild Oasis
-**Full-stack hotel management system**
-- React Query for server state management
-- Styled Components for consistent design
-- Supabase backend integration
-- Advanced patterns like compound components
-- Authentication and authorization
-- [View Project](https://github.com/Mohamed-amine-Mr/the-wild-oasis)
-
-### The Wild Oasis Website
-**Next.js website with modern architecture**
-- Next.js App Router implementation
-- React Server Components for optimal performance
-- NextAuth authentication system
-- [View Project](https://github.com/Mohamed-amine-Mr/the-wild-oasis-website)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" /> GitHub Statistics
 
@@ -118,7 +66,6 @@ As a junior Front-End Developer based in Morocco, I'm passionate about creating 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" /> Currently Learning
 
-- Advanced Next.js features and optimizations
 
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" alt="Handshake" width="25"> Open to Opportunities
