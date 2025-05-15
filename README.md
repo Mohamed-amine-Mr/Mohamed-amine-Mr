@@ -1,7 +1,7 @@
 # <div align="center">Mounir Mohamed Amine</div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&duration=2500&pause=800&color=00C4B4&center=true&vCenter=true&width=500&lines=Front-End+Freelancer+%26+Content+Creator;React%2C+PHP+%26+WordPress+Specialist;@code_bdarija+YouTube+Educator;Crafting+Impactful+Web+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&duration=2500&pause=800&color=00C4B4&center=true&vCenter=true&width=500&lines=Front-End+Freelancer+%26+Content+Creator;React%2C+PHP+%26+WordPress+Specialist;@mounirweb1+YouTube+Educator;Crafting+Impactful+Web+Solutions" alt="Typing SVG" />
 </div>
 
 <div align="center">
