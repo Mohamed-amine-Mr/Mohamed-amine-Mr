@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <p>Front-End Developer crafting modern, responsive web applications with React, Next.js, and Tailwind CSS.</p>
+  <p>Front-End Developer crafting modern, responsive web applications with React , and Tailwind CSS.</p>
 </div>
 
 ##  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" /> Connect With Me
@@ -37,7 +37,7 @@ As a junior Front-End Developer based in Morocco, I'm passionate about creating 
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/PHP-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/PHP-1572B6?style=for-the-badge&logo=php3&logoColor=white" alt="PHP">
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
