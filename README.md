@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <p>🌍 Front-End Freelancer and Content Creator from Khouribga, Morocco, building responsive, user-focused web applications with React, PHP, and WordPress. I share practical web development tutorials in Darija on <a href="https://www.youtube.com/@code_bdarija">@mounirweb</a>, empowering developers and showcasing my expertise to clients worldwide.</p>
+  <p>🌍 Front-End Freelancer and Content Creator from Khouribga, Morocco, building responsive, user-focused web applications with React, PHP, and WordPress. I share practical web development tutorials in Darija on <a href="https://www.youtube.com/@mounirweb1">@mounirweb1</a>, empowering developers and showcasing my expertise to clients worldwide.</p>
 </div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Sparkles.webp" alt="Sparkles" width="25" height="25" /> Connect With Me
@@ -17,7 +17,7 @@
   <a href="https://www.mounirweb.com/">
     <img src="https://img.shields.io/badge/Portfolio-%231E1E1E.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
-  <a href="https://www.youtube.com/@code_bdarija">
+  <a href="https://www.youtube.com/@mounirweb1">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
   <a href="https://www.instagram.com/mounirweb/">
